@@ -1,0 +1,26 @@
+.menu{padding: 34px;text-decoration: none;color:black;text-shadow: 23px 5px 8px yellow;
+font-size: 23px;}
+.menu1{padding: 34px;text-decoration: none;color:black;text-shadow: 23px 5px 8px yellow;
+font-size: 23px;}
+.menu2{padding: 34px;text-decoration: none;color: black;text-shadow: 23px 5px 8px yellow;
+font-size: 23px;}
+.menu3{padding: 34px;text-decoration: none;color:rgb(0, 0, 0);text-shadow: 23px 5px 8px yellow;
+font-size: 23px;}
+.menu4{padding: 34px;text-decoration: none;color:rgb(0, 0, 0);text-shadow: 23px 5px 8px yellow;
+font-size: 23px;}
+.text{box-shadow: 10px 5px 5px teal;}
+.menu5{background-color: gray;width:100%;padding-top: 24px;top: 0;padding-bottom: 34px; 
+}
+.text2{font-size: 22px;}
+li{font-size: 24px;
+}
+.a:hover{color: yellowgreen;text-decoration: none;color: yellow;padding-bottom: 45px;position: fixed top;}
+.das{font-size: 23px;}
+.du{background-color: yellow;}
+.un{width: 100px;}
+span{color: black;background-color: yellow;}
+img{box-shadow: 10px 5px 5px teal;width: 100%;}
+h1{font-family: Bradley Hand, cursive;}
+.l{background-color: black;}
+
+.imgki{display: flex;width: 250px;height: 250px;box-shadow: teal;}
